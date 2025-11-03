@@ -1,4 +1,4 @@
-[Online Retail Data Set.xlsx](https://github.com/user-attachments/files/19936690/Online.Retail.Data.Set.xlsx)
+[Online Retail Data Set.xlsx](https://github.com/user-attachments/files/19936690/Online.Retail.Data.Set.xlsx)/n
 Using Power BI to plot visualizations for use by the TATA's CEO & CMO
 Data cleaning involves checking product quantities and unit prices that are not below 0
 1. The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. 
